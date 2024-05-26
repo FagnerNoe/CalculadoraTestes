@@ -1,0 +1,14 @@
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\fagne\OneDrive\Documentos\CalculadoraTDD\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
